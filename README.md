@@ -1,5 +1,6 @@
 # [react_native_sync_fusion](https://github.com/PratikshaInventam/react_native_sync_fusion/edit/main/README.md#react_native_sync_fusion)
 
+```
 root/
 ├── android/ # Android native code
 ├── ios/ # iOS native code
@@ -68,3 +69,4 @@ root/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
